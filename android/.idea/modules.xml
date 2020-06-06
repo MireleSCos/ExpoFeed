@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpoFeed.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpoFeed.iml" group="ExpoFeed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ExpoFeed/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1308559266/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1308559266/react-native-community_masked-view.iml" group="ExpoFeed/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/108026425/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/108026425/react-native-gesture-handler.iml" group="ExpoFeed/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-9370557/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-9370557/react-native-reanimated.iml" group="ExpoFeed/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1385547874/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1385547874/react-native-safe-area-context.iml" group="ExpoFeed/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1598301446/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1598301446/react-native-screens.iml" group="ExpoFeed/react-native-screens" />
+    </modules>
+  </component>
+</project>
